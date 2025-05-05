@@ -21,4 +21,4 @@ if (out){
 }
 ```
 
-接着便可以通过文本比对网站（(推荐这个网站)[https://www.qianbo.com.cn/Tool/File-Difference/]）来快速查看标准输出与你的输出的区别
+接着便可以通过文本比对网站（[推荐这个网站](https://www.qianbo.com.cn/Tool/File-Difference/)）来快速查看标准输出与你的输出的区别
