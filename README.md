@@ -5,7 +5,7 @@
 
 [魔兽世界一(备战)](http://cxsjsx.openjudge.cn/hw202502/E/)
 
-[魔兽世界终(装备)](http://cxsjsx.openjudge.cn/hw202504/C/)
+[魔兽世界二(装备)](http://cxsjsx.openjudge.cn/hw202504/C/)
 
 [魔兽世界三(开战)](http://cxsjsx.openjudge.cn/hw202505/E/)
 ## 关于魔兽世界终极版一些比较容易忽视的内容（？
